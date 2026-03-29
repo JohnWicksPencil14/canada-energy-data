@@ -1,0 +1,11 @@
+province,abbr,primary_source,installed_capacity_gw,clean_energy_pct,avg_price_cents_per_kwh,grid_operator
+British Columbia,BC,Hydro,17.4,98,6.2,BC Hydro
+Alberta,AB,Natural Gas / Wind,22.1,38,7.8,AESO
+Saskatchewan,SK,Natural Gas / Coal,4.8,28,9.1,SaskPower
+Manitoba,MB,Hydro,6.1,99,4.9,Manitoba Hydro
+Ontario,ON,Nuclear / Hydro,38.2,91,8.3,IESO
+Quebec,QC,Hydro,40.1,99.8,5.5,Hydro-Québec
+New Brunswick,NB,Nuclear / Hydro,4.2,70,10.1,NB Power
+Nova Scotia,NS,Wind / Thermal,2.8,45,12.4,Nova Scotia Power
+Prince Edward Island,PEI,Wind,0.4,85,13.2,Maritime Electric
+Newfoundland & Labrador,NL,Hydro,7.2,96,11.8,Newfoundland Power
